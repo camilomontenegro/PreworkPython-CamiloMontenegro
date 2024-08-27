@@ -1,5 +1,4 @@
 #Vowel count
-
 string = input("insert any word: ").lower()
 count = 0
 vowels ="aeiou"
